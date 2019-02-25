@@ -3,13 +3,13 @@ GitHub上面有很多简历模板，可能因为网页显示和markdown原因，
 
 哪种类型，我个人觉得都ok，但简单粗暴一点，直接用word也挺好。所以我这里先推荐几份[Word版本](Resume)，
 
-- [AI-Job-Resume(v1)](AI-Job-Resume(v1).docx)
-- [AI-Job-Resume(v2)](AI-Job-Resume(v2).docx)
-- [AI-Job-Resume(v3)](AI-Job-Resume(v3).docx)
+- [AI-Job-Resume(v1)](Resume/AI-Job-Resume(v1).docx)
+- [AI-Job-Resume(v2)](Resume/AI-Job-Resume(v2).docx)
+- [AI-Job-Resume(v3)](Resume/AI-Job-Resume(v3).docx)
 
 如果需要其他类型的同学很多，我就再补一下其他类型的简历模板。
 
-注：本项目介绍的简历模板仅专项用于 AI 算法岗。因为是word(docx)版，所以github线上无限直接预览，请git clone 到本地预览。简历模板大致如下：
+注：本项目介绍的简历模板仅专项用于 AI 算法岗。因为是word(docx)版，所以github线上无法直接预览，请git clone 下载到本地预览和修改。简历模板大致如下：
 
 ![](Demo.png)
 
